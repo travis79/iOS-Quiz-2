@@ -47,7 +47,7 @@ import Foundation
 //: Give an example of declaring a dictionary that has an Int key and String value using **initializer syntax**
 
 //: ### Question 8
-//: Fix the error(s) in the following switch statement, and add the remaining values up to "9", "nine" "Nine"
+//: Fix the error(s) in the following switch statement, and add the remaining values up to "9", "nine", "Nine"
 var justAnInt:Int
 var n:String = "8"
 switch n {
